@@ -1,0 +1,13 @@
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\Bin\Debug\ApplicationIcon.png
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\Bin\Debug\Background.png
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\Bin\Debug\HelloWorld-WindowsPhone.dll
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\Bin\Debug\HelloWorld-WindowsPhone.pdb
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\Bin\Debug\AppManifest.xaml
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\Bin\Debug\HelloWorld_WindowsPhone.xap
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\obj\Debug\ResolveAssemblyReference.cache
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\obj\Debug\App.g.i.cs
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\obj\Debug\HelloWorld-WindowsPhone.g.resources
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\obj\Debug\HelloWorld-WindowsPhone.dll
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\obj\Debug\HelloWorld-WindowsPhone.pdb
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\obj\Debug\XapCacheFile.xml

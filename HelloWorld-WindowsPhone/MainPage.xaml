@@ -22,12 +22,17 @@
 
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock x:Name="ApplicationTitle" Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock x:Name="PageTitle" Text="page name" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <TextBlock x:Name="ApplicationTitle" Text="My Ninja App" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="Save the world" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
-        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0"></Grid>
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <TextBox Height="72" HorizontalAlignment="Left" Margin="12,116,0,0" Name="tbNinjaPhrase" Text="" VerticalAlignment="Top" Width="460" />
+            <TextBlock Height="79" HorizontalAlignment="Left" Margin="25,31,0,0" Name="textBlock1" Text="What is your Ninja pass phrase to save the world?" VerticalAlignment="Top" Width="425" TextWrapping="Wrap" />
+            <Button Content="Save the World!" Height="69" HorizontalAlignment="Left" Margin="109,194,0,0" Name="btnSaveTheWorld" VerticalAlignment="Top" Width="249" Click="btnSaveTheWorld_Click" />
+            <TextBlock Height="114" HorizontalAlignment="Left" Margin="25,269,0,0" Name="messageBlock" Text="" VerticalAlignment="Top" Width="425" TextWrapping="Wrap" />
+        </Grid>
     </Grid>
  
     <!--Sample code showing usage of ApplicationBar-->
