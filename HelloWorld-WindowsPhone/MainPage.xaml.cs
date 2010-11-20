@@ -21,6 +21,11 @@ namespace HelloWorld_WindowsPhone
             InitializeComponent();
         }
 
+        private void PhoneApplicationPage_Loaded(object sender, RoutedEventArgs e)
+        {
+            tbNinjaPhrase.Focus();
+        }
+
         private void btnSaveTheWorld_Click(object sender, RoutedEventArgs e)
         {
             string ninjaPhrase = tbNinjaPhrase.Text;
