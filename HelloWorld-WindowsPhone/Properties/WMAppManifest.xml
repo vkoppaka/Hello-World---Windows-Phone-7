@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.0">
-  <App xmlns="" ProductID="{97a383c7-abb9-40ec-839d-0ac3aa168ccb}" Title="HelloWorld_WindowsPhone" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="HelloWorld_WindowsPhone author" Description="Sample description" Publisher="HelloWorld_WindowsPhone">
-    <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
+  <App xmlns="" ProductID="{97a383c7-abb9-40ec-839d-0ac3aa168ccb}" Title="Save the World, Ninja!" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="Venkata Koppaka" Description="Save your world Ninja!" Publisher="Venkata Koppaka">
+    <IconPath IsRelative="true" IsResource="false">ninja.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_GAMERSERVICES"/>
       <Capability Name="ID_CAP_IDENTITY_DEVICE"/>

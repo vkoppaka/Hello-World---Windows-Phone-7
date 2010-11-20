@@ -11,3 +11,4 @@ C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\obj\De
 C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\obj\Debug\HelloWorld-WindowsPhone.dll
 C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\obj\Debug\HelloWorld-WindowsPhone.pdb
 C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\obj\Debug\XapCacheFile.xml
+C:\!Projects\WindowsPhone\HelloWorld-WindowsPhone\HelloWorld-WindowsPhone\Bin\Debug\ninja.png
